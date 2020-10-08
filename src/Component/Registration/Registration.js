@@ -37,9 +37,9 @@ const Registration = () => {
       })
         .then((res) => res.json())
         .then((data) => setEvents(data));
-    }, []);
-
-     
+    }, [id]);
+    
+  
      const handleRegistration = () => {
 
        const { img, title } = events;

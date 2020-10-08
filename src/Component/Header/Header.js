@@ -45,7 +45,9 @@ const Header = () => {
             </Link>
           </li>
           <li>
-            <Link to="/admin">{<button className="admin-btn">Admin</button>}</Link>
+            <Link to="/admin">
+              {user && <button className="admin-btn">Admin</button>}
+            </Link>
           </li>
         </ul>
       </nav>
