@@ -1,0 +1,51 @@
+.nav img{
+    width: 120.26px;
+     
+  }
+
+
+.nav{
+    margin-left: 200px;
+    color: black;
+}
+.nav li{
+    display: inline;
+    margin-left: 50px;
+    color: black;
+    
+  }
+  
+  .nav a{
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+  }
+
+  .reg-btn{
+    width: 104px;
+    height: 40px;
+    left: 1192px;
+    top: 39px;
+    background: #3F90FC;
+    color: white;
+    border-radius: 5px;
+    border: none;
+  }
+
+  .admin-btn{
+    width: 104px;
+    height: 40px;
+    left: 1152px;
+    top: 49px;
+    border-radius: 6px;
+    background: #434141;
+    color: white;
+    border: none;
+
+
+  }
+
+  .nav-bar{
+    margin-top: 10px;
+  }
+  

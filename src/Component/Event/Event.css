@@ -1,0 +1,28 @@
+#events{
+    margin-left: 135px;
+}
+.event{
+    display: flex;
+
+}
+
+.event-info{
+    margin: 30px
+}
+
+.user-event{
+
+    display:flex;
+    width: 570px;
+    height: 219px;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+    
+    
+}
+
+.events{
+    margin-left: 135px;
+    margin-top: 50px;
+}

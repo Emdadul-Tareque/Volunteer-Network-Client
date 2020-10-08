@@ -1,0 +1,36 @@
+.registration-form{
+    position: absolute;
+    width: 570px;
+    height: 460px;
+    background: #FFFFFF;
+    border: 1px solid #ABABAB;
+    border-radius: 4px;
+    margin-left: 435px;
+}
+
+.form-field{
+    width: 450px;
+    height: 32px;
+    left: 489px;
+    top: 249px;
+    margin-top: 10px;
+    border-bottom: 2px solid lightgray;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+
+}
+
+.form{
+    margin: 50px;
+    
+}
+
+.submit-btn{
+    margin-top: 20px;
+    width: 462px;
+    height: 48px;
+    color:white;
+    background: #3F90FC;
+    border: none;
+}

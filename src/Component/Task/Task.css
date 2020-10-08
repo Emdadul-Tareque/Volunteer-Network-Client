@@ -1,0 +1,20 @@
+#events{
+    margin-left: 135px;
+    border: 1px solid lightblue;
+    margin-bottom: 100px;
+    width: 570px;
+    height: 219px;
+    background: lightgray;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+}
+.event{
+    display: flex;
+
+}
+.event-pic img{
+    margin-top: 15px;
+    width: 194px;
+    height: 173px;
+    border-radius: 15px;
+ }

@@ -1,0 +1,54 @@
+.event-form{
+    background-color: #E5E5E5;
+    position: fixed;
+    min-width: 1000%;
+    min-height: 100%;
+    padding: 20px;
+}
+
+.form-element{
+    background-color: white;
+    position: fixed;
+    min-width: 70%;
+    min-height: 50%;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding: 30px;
+    padding-left: 30px;
+    
+
+}
+
+.form-Field{
+    margin-bottom: 30px;
+  
+}
+.input{
+    width: 450px;
+    height: 40px;
+    background: #FFFFFF;
+    border: 0.666667px solid #C9C9C9;
+    box-sizing: border-box;
+    border-radius: 3.33333px;
+}
+
+.input-des{
+    width: 450px;
+    height: 121px;
+    background: #FFFFFF;
+    border: 0.666667px solid #C9C9C9;
+    border-radius: 3.33333px;
+    position: fixed;
+}
+
+.form-Field label{
+    font-style: normal;
+    font-weight: 1000;
+    font-size: 16px;
+    color: #000000;
+}
+
+.post-btn{
+    text-align: right;
+}

@@ -1,0 +1,59 @@
+.logo img{
+    width: 202.81px;
+    height: 80px;
+}
+
+.logo{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.login{
+    width: 570px;
+    height: 400px;
+    margin-left: 435px;
+    border: 1px solid #ABABAB;
+    border-radius: 4px;
+}
+
+.google-login{
+    width: 457px;
+    height: 148px;
+    margin: 130px 57px;
+    text-align: center;
+}
+
+.signIn{
+    display: flex;
+    width: 401px;
+    height: 51px;
+    background: #FFFFFF;
+    border: 1px solid #C7C7C7;
+    box-sizing: border-box;
+    border-radius: 57px;
+    margin-left: 30px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.google-icon{
+ 
+    width: 141px;
+    height: 31.74px;
+    left: 502px;
+    top: 861px;
+    padding-right: 100px;
+    margin-top: 10px;
+    padding-left: 5px;
+
+}
+
+.signIn-btn{
+    border:none;
+    font: bold;
+    background-color: #fff;
+    font-weight: bold;
+    cursor: pointer;
+    
+}
