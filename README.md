@@ -20,6 +20,7 @@ A full-stack volunteer management app where people can participate to do volunte
  - Node.js
  - MongoDB
  - Bootstrap
+ - Material-UI
  - Firebase Authentication
  - Heroku.
 
